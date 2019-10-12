@@ -1,0 +1,8 @@
+[user]
+	name = Jorge Fernandes
+	email = jorgeffernandesm@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
