@@ -10,7 +10,7 @@ That was the reason why I limited the pages to 50 items.
 
 ## Installation
 ```sh
-$ cd dillinger
+$ cd pokedex
 $ npm install
 $ npm start
 ```
